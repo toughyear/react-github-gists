@@ -1,4 +1,4 @@
-# React Embed Gist
+# React Github Gists
 
 [![NPM Downloads](https://img.shields.io/npm/dt/react-embed-gist.svg)](https://www.npmjs.com/package/react-embed-gist)
 [![GitHub license](https://img.shields.io/github/license/msaracevic/react-embed-gist.svg)](https://github.com/msaracevic/react-embed-gist/blob/master/LICENSE)
