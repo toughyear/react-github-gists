@@ -1,10 +1,9 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-github-gists'
-import 'react-github-gists/dist/index.css'
+import ReactGithubGists from 'react-github-gists'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <ReactGithubGists user='toughyear' />
 }
 
 export default App
