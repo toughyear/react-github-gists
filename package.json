@@ -1,8 +1,8 @@
 {
   "name": "react-github-gists",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "Simple and powerful react component to embed a single gist or all gists from a user in your react application.",
-  "author": "toughyear",
+  "author": "Rajeev Singh Naruka",
   "license": "MIT",
   "repository": "toughyear/react-github-gists",
   "main": "dist/index.js",
@@ -52,5 +52,12 @@
   ],
   "dependencies": {
     "react-embed-gist": "^1.0.10"
-  }
+  },
+  "keywords": [
+    "react",
+    "github",
+    "gist",
+    "embed",
+    "gists"
+  ]
 }

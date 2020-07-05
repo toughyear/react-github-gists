@@ -50,4 +50,4 @@ import ReactGithubGists from "react-github-gists";
 
 ## License
 
-MIT © [toughyear](https://github.com/toughyear)
+MIT © [Rajeev Singh Naruka](https://github.com/toughyear)
